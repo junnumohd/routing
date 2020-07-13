@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.left{
+    float: left;
+}
+.form{
+    clear: both;
+    height: auto;
+}
+.label{
+    width: 150px;
+    padding: 20px;
+}
+.input{
+    padding: 20px;
+}
+.radio{
+    padding: 4px;
+    width: 150px;
+    height: 30px;
+    color: #252525;
+    margin-top: 15px;
+}
+.input .btn{
+    height: 40px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #2d3e0c;
+    border-radius: 5px;
+}
+.card{
+    width: 60%;
+    margin: 20px;
+}
